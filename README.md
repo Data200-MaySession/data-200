@@ -5,7 +5,6 @@
 ---
 
 ### Week 1
-**Assignments to complete this week:**
 
 **Reading:**
 - *Statistics 2: ANOVA and Regression*
@@ -16,7 +15,6 @@
 ---
 
 ### Week 2
-**Assignments to complete this week:**
 
 **Reading:**
 - *Statistics 2: ANOVA and Regression*
@@ -26,7 +24,6 @@
 ---
 
 ### Week 3
-**Assignments to complete this week:**
 
 **Reading:**
 - *Statistics 2: ANOVA and Regression*
@@ -36,7 +33,6 @@
 ---
 
 ### Week 4
-**Assignments to complete this week:**
 
 **Reading:**
 - *Predictive Modeling Using Logistic Regression*
@@ -46,7 +42,6 @@
 ---
 
 ### Week 5
-**Assignments to complete this week:**
 
 **Reading:**
 - *Predictive Modeling Using Logistic Regression*
@@ -55,7 +50,6 @@
 ---
 
 ### Week 6
-**Assignments to complete this week:**
 
 **Reading:**
 - *Predictive Modeling Using Logistic Regression*
@@ -64,7 +58,6 @@
 ---
 
 ### Week 7
-**Assignments to complete this week:**
 
 **Reading:**
 - *Predictive Modeling Using Logistic Regression*
@@ -73,7 +66,6 @@
 ---
 
 ### Week 8
-**Assignments to complete this week:**
 
 **Reading: Articles from SAS Analytics Insights**
 - *Five Questions to Help Bridge the Analytics Gap*  
